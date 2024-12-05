@@ -97,14 +97,67 @@
 
 ---
 
-## Slide 11: AI x Web3 Synergy
+## Slide 11: AI x Web3 Synergy - Shared Benefits
 - **Content**:
-  - Shared benefits: Transparency, micro-payments, ownership (DAOs).
-  - Data: Peer-reviewed systems, licensing, attestation.
-  - Training: Resource pooling, trusted training, transparency.
-  - Inference: Micropayments, crowd knowledge, oracles.
-  - Tools: Oracles, verified RAG, zk-RAG.
+  - Transparency with optional privacy:
+    - Compute: Fully Homomorphic Encryption (FHE).
+    - Data: Zero-Knowledge Machine Learning (zkML).
+  - Micro and international payments.
+  - Ownership, control, and dividends through DAOs.
 - **Image Placeholder**: A Venn diagram showing the overlap of AI and Web3 benefits.
+
+---
+
+## Slide 12: AI x Web3 Synergy - Data
+- **Content**:
+  - High-quality data requires a peer-review system similar to academic publishing:
+    - Decentralized ledger concept: Libraries hold copies of publications with timestamps.
+    - Authors and reviewers own their reputation (not tied to platforms like Twitter).
+    - Enables international payments and collaboration.
+  - Low-quality data tasks:
+    - Mostly handled by AI but some tasks (e.g., image labeling, multi-step reasoning) still need human input.
+    - Supports international operations and micropayments (< $0.30).
+  - Attestation:
+    - Pay creators for their work.
+    - Deep fake protection: Proof of authenticity for photographs.
+    - Licensing ensures authors are paid even if data is on-chain.
+- **Image Placeholder**: A conceptual image of a decentralized data system with creators being paid.
+
+---
+
+## Slide 13: AI x Web3 Synergy - Training
+- **Content**:
+  - Pooling resources for training.
+  - Trusted training:
+    - A hydro-electric plant in a developing country can be as reliable as AWS for creating sensitive models.
+  - Transparency and repeatability:
+    - Traceability of data used in training.
+- **Image Placeholder**: A graphic showing pooled resources and a trusted training process.
+
+---
+
+## Slide 14: AI x Web3 Synergy - Inference
+- **Content**:
+  - Attestation ensures creators are paid for their contributions.
+  - Micropayments for using AI models.
+  - Crowd knowledge:
+    - Leveraging collective intelligence for better inference.
+  - Tools for inference:
+    - Ora, Cartesi, oracles, and Trusted Execution Environments (TEE).
+- **Image Placeholder**: A diagram showing micropayments and crowd knowledge integration.
+
+---
+
+## Slide 15: AI x Web3 Synergy - Tools and Prompts
+- **Content**:
+  - Tools:
+    - Oracles for trusted data.
+    - Verified Retrieval-Augmented Generation (RAG).
+    - zk-RAG: Adopting zero-knowledge oracles for privacy.
+  - Prompts:
+    - Marketplace for selling prompts and agents.
+    - AI DAO delegate for governance.
+- **Image Placeholder**: A futuristic marketplace for AI tools and prompts.
 
 ---
 
