@@ -172,7 +172,7 @@
 
 - **Content**:
   - Pooling resources for training.
-  - Trusted training:
+  - Trusted training with untrusted hardware:
     - A hydro-electric plant in a developing country can be as trusted as AWS for creating sensitive models.
   - Transparency and repeatability:
     - Traceability of data used in training.
