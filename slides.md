@@ -90,9 +90,23 @@
 
 ## Slide 10: Value of Blockchain
 - **Content**:
-  - Features: Transparency, privacy tech, communal ownership, tokenization.
-  - Applications: Digital currency, marketplaces, scalable infrastructure.
-- **Image Placeholder**: A blockchain ledger with privacy and tokenization elements.
+  - **Core Features**:
+    - Transparency: Immutable and auditable records for trust.
+    - Privacy Tech: zkML for AI privacy, zk-SNARKs for secure transactions.
+    - Communal Ownership: DAOs for shared governance and decision-making.
+    - Tokenization: Enables fractional ownership and liquidity for assets.
+  - **Applications**:
+    - Digital Currency: Secure, decentralized, and borderless payments.
+    - Marketplaces: Trustless environments for trading goods and services.
+    - Scalable Infrastructure: Built-in payment systems (e.g., Stripe-like functionality).
+    - Smart Contracts: Automating agreements for loans, escrows, and more.
+    - Privacy-Preserving AI: zkML ensures data privacy while enabling AI computations.
+    - Decentralized Identity: Self-sovereign identity systems for secure authentication.
+  - **Advantages**:
+    - Lower Regulations: Operates outside traditional regulatory frameworks.
+    - Security: Cryptographic guarantees for data integrity and protection.
+    - Accessibility: Democratizes access to financial and computational resources.
+- **Image Placeholder**: A blockchain ledger with privacy, tokenization, and smart contract elements.
 
 ---
 
