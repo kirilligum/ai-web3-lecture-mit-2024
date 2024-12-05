@@ -91,21 +91,21 @@
 ## Slide 10: Value of Blockchain
 - **Content**:
   - **Core Features**:
-    - Transparency: Immutable and auditable records for trust.
-    - Privacy Tech: zkML for AI privacy, zk-SNARKs for secure transactions.
-    - Communal Ownership: DAOs for shared governance and decision-making.
-    - Tokenization: Enables fractional ownership and liquidity for assets.
+    - Think of the blockchain as an ideal centralized overseer.
+    - Cloning a ledger:
+      - Cost of operating a currency and keeping it digital.
+      - Security: Transparency and traceability.
+    - Privacy Tech:
+      - zkML: Proof that someone ran a model on the data without seeing the data.
+    - Cloning a contract:
+      - Replacing escrow for marketplaces and loans.
+    - Managing communal ownership through DAOs.
+    - Tokenization of projects for fractional ownership and liquidity.
   - **Applications**:
-    - Digital Currency: Secure, decentralized, and borderless payments.
-    - Marketplaces: Trustless environments for trading goods and services.
-    - Scalable Infrastructure: Built-in payment systems (e.g., Stripe-like functionality).
-    - Smart Contracts: Automating agreements for loans, escrows, and more.
-    - Privacy-Preserving AI: zkML ensures data privacy while enabling AI computations.
-    - Decentralized Identity: Self-sovereign identity systems for secure authentication.
-  - **Advantages**:
     - Lower Regulations: Operates outside traditional regulatory frameworks.
-    - Security: Cryptographic guarantees for data integrity and protection.
-    - Accessibility: Democratizes access to financial and computational resources.
+    - Scalable Infrastructure:
+      - Stripe-like functionality by default.
+      - Easy to build trusted systems without relying on a brand.
 - **Image Placeholder**: A blockchain ledger with privacy, tokenization, and smart contract elements.
 
 ---
