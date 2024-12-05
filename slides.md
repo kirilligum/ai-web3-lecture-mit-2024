@@ -3,13 +3,15 @@
 ---
 
 ## Slide 1: Title Slide
-- **Title**: AI x Web3: Transforming the Crypto Landscape
-- **Subtitle**: MIT Business School Lecture 2024
+
+- **Title**: AI x Web3
+- **Subtitle**: By Kirill Igumenshchev MIT Business School Lecture 2024
 - **Image Placeholder**: A futuristic AI and blockchain-themed image, generated with AI for aesthetic purposes.
 
 ---
 
 ## Slide 2: Lecture Overview
+
 - **Content**:
   - 1 Hour Lecture: Covering key topics and insights.
   - 30 Minutes for Questions: Open discussion and clarifications.
@@ -18,24 +20,23 @@
 ---
 
 ## Slide 3: Current Popular Projects - GOAT
-- **Title**: GOAT ($300M in a Week)
+
+- **Title**: GOAT (0-->$300M in a Week)
 - **Content**:
   - **Agents with Wallets Yapping on X**:
     - Examples: AIxbt, Virtuals, Zerebro, Base vs. Solana.
     - Truth Terminal: A tweeter agent trained on obscure internet content.
     - Gospel of Goatse: Creation of cryptocurrency Goatseus Maximus (GOAT).
-    - Popularity Goals: $50K grant from Marc Andreessen, pumps $GOAT token.
-  - **Sources**:
-    - [Truth Terminal Creator Andy Ayrey on $GOAT AI Agents & Meme Coins](https://www.youtube.com/watch?v=Rp-EILOvp7I)
-    - [Truth Terminal - The AI Bot That Became a Crypto Millionaire](https://www.youtube.com/watch?v=EKspo1FLj-4&t=1s)
+    - Popularity: $50K grant from Marc Andreessen, pumps $GOAT token.
 - **Image Placeholder**: A meme-inspired image with a goat and cryptocurrency symbols.
 
 ---
 
 ## Slide 4: Current Popular Projects - Bittensor
+
 - **Title**: Bittensor: A Decentralized AI Network ($5B Market Cap)
 - **Content**:
-  - Decentralized AI marketplace for "neurons."
+  - Decentralized AI marketplace for models.
   - Incentivized contributions with TAO tokens.
   - Scalable AI computations using blockchain.
   - Prominent user: Nous Research.
@@ -44,6 +45,7 @@
 ---
 
 ## Slide 5: Current Popular Projects - DisTrO
+
 - **Title**: DisTrO (Distributed Training Over-The-Internet)
 - **Content**:
   - Reduces inter-GPU communication by up to 10,000x.
@@ -55,6 +57,7 @@
 ---
 
 ## Slide 6: Current Popular Projects - Ora / Cartesi
+
 - **Title**: Ora / Cartesi
 - **Content**:
   - On-chain inference using optimistic rollup.
@@ -64,6 +67,7 @@
 ---
 
 ## Slide 7: Ecosystem Overview
+
 - **Content**:
   - Visual resources: Images of categorized companies and market cap tables.
 - **Image Placeholder**: A bar chart comparing funding levels of AI Web3 vs. centralized AI.
@@ -71,8 +75,9 @@
 ---
 
 ## Slide 8: Missing for Ideal AI Web3
+
 - **Content**:
-  - Peer-reviewed data for high quality.
+  - Peer-reviewed system for high quality data.
   - Efficient GPU rollup to reduce costs.
   - Applications: AI voting (DAO delegates), attestation for creators.
 - **Image Placeholder**: A conceptual image of a voting system and artists being paid.
@@ -80,6 +85,7 @@
 ---
 
 ## Slide 9: Value of Modern AI
+
 - **Content**:
   - Abilities: Knowledge access, planning, creativity, text/multimodal capabilities.
   - Impact: Replacing junior workers, smart contract writing, content generation.
@@ -89,6 +95,7 @@
 ---
 
 ## Slide 10: The Value of Blockchain Technology
+
 - **Content**:
   - **Blockchain as an Ideal Decentralized Overseer**:
     - Decentralized Transaction Records:
@@ -103,6 +110,7 @@
 ---
 
 ## Slide 11: Tokenization and Decentralized Finance (DeFi)
+
 - **Content**:
   - **Tokenization of Projects**:
     - Facilitates communal ownership of assets.
@@ -112,7 +120,8 @@
 
 ---
 
-## Slide 12: Advancements in Blockchain Technology and AI Privacy
+## Slide 12: Advancements in Blockchain Technology that empower AI
+
 - **Content**:
   - **Scalable Infrastructure**:
     - Blockchain as a default "Stripe clone" for payments.
@@ -128,6 +137,7 @@
 ---
 
 ## Slide 11: AI x Web3 Synergy - Shared Benefits
+
 - **Content**:
   - Transparency with optional privacy:
     - Compute: Fully Homomorphic Encryption (FHE).
@@ -139,27 +149,29 @@
 ---
 
 ## Slide 12: AI x Web3 Synergy - Data
+
 - **Content**:
   - High-quality data requires a peer-review system similar to academic publishing:
-    - Decentralized ledger concept: Libraries hold copies of publications with timestamps.
+    - scientific publishing is already a decentralized ledger
     - Authors and reviewers own their reputation (not tied to platforms like Twitter).
     - Enables international payments and collaboration.
   - Low-quality data tasks:
     - Mostly handled by AI but some tasks (e.g., image labeling, multi-step reasoning) still need human input.
-    - Supports international operations and micropayments (< $0.30).
+    - Access to cheaper international labor
   - Attestation:
     - Pay creators for their work.
-    - Deep fake protection: Proof of authenticity for photographs.
+    - Deep fake protection: Example: Proof of authenticity for photographs.
     - Licensing ensures authors are paid even if data is on-chain.
 - **Image Placeholder**: A conceptual image of a decentralized data system with creators being paid.
 
 ---
 
 ## Slide 13: AI x Web3 Synergy - Training
+
 - **Content**:
   - Pooling resources for training.
   - Trusted training:
-    - A hydro-electric plant in a developing country can be as reliable as AWS for creating sensitive models.
+    - A hydro-electric plant in a developing country can be as trusted as AWS for creating sensitive models.
   - Transparency and repeatability:
     - Traceability of data used in training.
 - **Image Placeholder**: A graphic showing pooled resources and a trusted training process.
@@ -167,11 +179,11 @@
 ---
 
 ## Slide 14: AI x Web3 Synergy - Inference
+
 - **Content**:
   - Attestation ensures creators are paid for their contributions.
   - Micropayments for using AI models.
-  - Crowd knowledge:
-    - Leveraging collective intelligence for better inference.
+  - Recording transactions on-chain by default helps generate human-reviewed data
   - Tools for inference:
     - Ora, Cartesi, oracles, and Trusted Execution Environments (TEE).
 - **Image Placeholder**: A diagram showing micropayments and crowd knowledge integration.
@@ -179,6 +191,7 @@
 ---
 
 ## Slide 15: AI x Web3 Synergy - Tools and Prompts
+
 - **Content**:
   - Tools:
     - Oracles for trusted data.
@@ -192,6 +205,7 @@
 ---
 
 ## Slide 12: Difficulties
+
 - **Content**:
   - Technical challenges: On-chain inference, GPU rollups, zkML, FHE.
   - Data creation: Needs expert input.
@@ -205,6 +219,7 @@
 ---
 
 ## Slide 13: Closing Slide
+
 - **Title**: Thank You!
 - **Subtitle**: Questions and Discussion
 - **Image Placeholder**: A simple "Thank You" graphic with AI and blockchain elements.
