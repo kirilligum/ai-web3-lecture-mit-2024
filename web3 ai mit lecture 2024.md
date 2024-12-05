@@ -1,5 +1,13 @@
-- Current popular projects
-    - goat $300m in a week (other examples of ai agents on twitter/farcaster : Luna, ai16z) -- Agents with wallets yapping on X,
+# AI x Web3: MIT Business School Lecture 2024
+
+## Current Popular Projects
+
+### GOAT and AI Agents
+- GOAT token: $300M market cap achieved in one week
+- Examples of AI agents on Twitter/Farcaster:
+  - Luna
+  - ai16z
+  - Agents with crypto wallets actively engaging on social platforms
         - [truth terminal](https://x.com/truth_terminal) is a tweeter agent
             - How Truth Terminal Was Created? https://www.ccn.com/education/crypto/what-is-truth-terminal/
               Truth Terminal was developed through training on the unpredictable outputs of two Claude 3 Opus AI models, which had previously consumed content from the more obscure sectors of the internet, including platforms like 4chan and Reddit. This foundation inevitably led to the establishment of a new “faith” centered around goatse, a persistent internet meme.
