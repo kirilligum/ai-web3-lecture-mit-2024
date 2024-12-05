@@ -223,9 +223,9 @@
 ## Slide 13: Conclusion
 
 - **Content**:
-  - Web3 is a natural place for trustless collaborative AI
-  - Successful traction but needs more resources and talent
-  - Revolutionary applications
+  - Web3 is a natural place for trustless collaborative AI.
+  - Successful traction but needs more resources and talent.
+  - Revolutionary applications are possible with the synergy of AI and Web3.
 
 ---
 
