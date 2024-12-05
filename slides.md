@@ -17,7 +17,6 @@
     - Current popular projects and their impact.
     - The value of blockchain and modern AI.
     - Challenges and opportunities in the AI Web3 space.
-    - Future directions and innovations.
 - **Image Placeholder**: A conceptual image showing the intersection of AI and Web3 technologies.
 
 ---
