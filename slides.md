@@ -65,8 +65,6 @@
 
 ## Slide 7: Ecosystem Overview
 - **Content**:
-  - AI Web3 space remains underfunded compared to centralized AI:
-    - $2B is almost nothing compared to OpenAI's $18B, Anthropic's $7B, and Scale AI's $1.4B.
   - Visual resources: Images of categorized companies and market cap tables.
 - **Image Placeholder**: A bar chart comparing funding levels of AI Web3 vs. centralized AI.
 
@@ -167,7 +165,10 @@
   - Technical challenges: On-chain inference, GPU rollups, zkML, FHE.
   - Data creation: Needs expert input.
   - Talent attraction: AI researchers prefer strong teams.
-  - Investment challenges: Web3 requires incubators and token listings.
+  - Investment challenges:
+    - Web3 requires incubators and token listings.
+    - AI Web3 space remains underfunded compared to centralized AI:
+      - $2B is almost nothing compared to OpenAI's $18B, Anthropic's $7B, and Scale AI's $1.4B.
 - **Image Placeholder**: A roadblock graphic with icons for technical, talent, and funding challenges.
 
 ---
