@@ -180,7 +180,7 @@
 
 ---
 
-## Slide 14: AI x Web3 Synergy - Inference
+## Slide 16: AI x Web3 Synergy - Inference
 
 - **Content**:
   - Attestation ensures creators are paid for their contributions.
@@ -192,7 +192,7 @@
 
 ---
 
-## Slide 16: AI x Web3 Synergy - Tools and Prompts
+## Slide 17: AI x Web3 Synergy - Tools and Prompts
 
 - **Content**:
   - Tools:
@@ -206,7 +206,7 @@
 
 ---
 
-## Slide 17: Difficulties
+## Slide 18: Difficulties
 
 - **Content**:
   - Technical challenges: On-chain inference, GPU rollups, zkML, FHE.
@@ -220,7 +220,7 @@
 
 ---
 
-## Slide 18: Conclusion
+## Slide 19: Conclusion
 
 - **Content**:
   - Web3 is a natural place for trustless collaborative AI.
@@ -229,10 +229,9 @@
 
 ---
 
-## Slide 19: Closing Slide
+## Slide 20: Closing Slide
 
 - **Title**: Thank You!
 - **Subtitle**: Questions and Discussion
-- **Image Placeholder**: A simple "Thank You" graphic with AI and blockchain elements.
 
 ---
