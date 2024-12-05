@@ -192,7 +192,7 @@
 
 ---
 
-## Slide 15: AI x Web3 Synergy - Tools and Prompts
+## Slide 16: AI x Web3 Synergy - Tools and Prompts
 
 - **Content**:
   - Tools:
