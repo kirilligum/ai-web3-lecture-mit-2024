@@ -138,7 +138,7 @@
 
 ---
 
-## Slide 11: AI x Web3 Synergy - Shared Benefits
+## Slide 13: AI x Web3 Synergy - Shared Benefits
 
 - **Content**:
   - Transparency with optional privacy:
@@ -150,7 +150,7 @@
 
 ---
 
-## Slide 12: AI x Web3 Synergy - Data
+## Slide 14: AI x Web3 Synergy - Data
 
 - **Content**:
   - High-quality data requires a peer-review system similar to academic publishing:
@@ -168,7 +168,7 @@
 
 ---
 
-## Slide 13: AI x Web3 Synergy - Training
+## Slide 15: AI x Web3 Synergy - Training
 
 - **Content**:
   - Pooling resources for training.
@@ -206,7 +206,7 @@
 
 ---
 
-## Slide 12: Difficulties
+## Slide 17: Difficulties
 
 - **Content**:
   - Technical challenges: On-chain inference, GPU rollups, zkML, FHE.
@@ -220,7 +220,7 @@
 
 ---
 
-## Slide 13: Conclusion
+## Slide 18: Conclusion
 
 - **Content**:
   - Web3 is a natural place for trustless collaborative AI.
@@ -229,7 +229,7 @@
 
 ---
 
-## Slide 14: Closing Slide
+## Slide 19: Closing Slide
 
 - **Title**: Thank You!
 - **Subtitle**: Questions and Discussion
