@@ -11,7 +11,7 @@
 
 ## Slide 2: Lecture Overview
 - **Content**:
-  - 1 Hour Lecture: Key topics and insights.
+  - 1 Hour Lecture: Covering key topics and insights.
   - 30 Minutes for Questions: Open discussion and clarifications.
 - **Image Placeholder**: A simple timeline graphic showing 1 hour for lecture and 30 minutes for Q&A.
 
@@ -20,11 +20,14 @@
 ## Slide 3: Current Popular Projects - GOAT
 - **Title**: GOAT ($300M in a Week)
 - **Content**:
-  - Agents with wallets yapping on X.
-  - Examples: AIxbt, Virtuals, Zerebro, Base vs. Solana.
-  - Truth Terminal: A tweeter agent trained on obscure internet content.
-  - Gospel of Goatse: Creation of cryptocurrency Goatseus Maximus (GOAT).
-  - Popularity Goals: $50K grant from Marc Andreessen, pumps $GOAT token.
+  - **Agents with Wallets Yapping on X**:
+    - Examples: AIxbt, Virtuals, Zerebro, Base vs. Solana.
+    - Truth Terminal: A tweeter agent trained on obscure internet content.
+    - Gospel of Goatse: Creation of cryptocurrency Goatseus Maximus (GOAT).
+    - Popularity Goals: $50K grant from Marc Andreessen, pumps $GOAT token.
+  - **Sources**:
+    - [Truth Terminal Creator Andy Ayrey on $GOAT AI Agents & Meme Coins](https://www.youtube.com/watch?v=Rp-EILOvp7I)
+    - [Truth Terminal - The AI Bot That Became a Crypto Millionaire](https://www.youtube.com/watch?v=EKspo1FLj-4&t=1s)
 - **Image Placeholder**: A meme-inspired image with a goat and cryptocurrency symbols.
 
 ---
