@@ -13,9 +13,12 @@
 ## Slide 2: Lecture Overview
 
 - **Content**:
-  - 1 Hour Lecture: Covering key topics and insights.
-  - 30 Minutes for Questions: Open discussion and clarifications.
-- **Image Placeholder**: A simple timeline graphic showing 1 hour for lecture and 30 minutes for Q&A.
+  - Overview of AI x Web3 Synergy:
+    - Current popular projects and their impact.
+    - The value of blockchain and modern AI.
+    - Challenges and opportunities in the AI Web3 space.
+    - Future directions and innovations.
+- **Image Placeholder**: A conceptual image showing the intersection of AI and Web3 technologies.
 
 ---
 
