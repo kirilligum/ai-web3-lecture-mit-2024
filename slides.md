@@ -88,25 +88,42 @@
 
 ---
 
-## Slide 10: Value of Blockchain
+## Slide 10: The Value of Blockchain Technology
 - **Content**:
-  - **Core Features**:
-    - Think of the blockchain as an ideal centralized overseer.
-    - Cloning a ledger:
-      - Cost of operating a currency and keeping it digital.
-      - Security: Transparency and traceability.
-    - Privacy Tech:
-      - zkML: Proof that someone ran a model on the data without seeing the data.
-    - Cloning a contract:
-      - Replacing escrow for marketplaces and loans.
-    - Managing communal ownership through DAOs.
-    - Tokenization of projects for fractional ownership and liquidity.
-  - **Applications**:
-    - Lower Regulations: Operates outside traditional regulatory frameworks.
-    - Scalable Infrastructure:
-      - Stripe-like functionality by default.
-      - Easy to build trusted systems without relying on a brand.
-- **Image Placeholder**: A blockchain ledger with privacy, tokenization, and smart contract elements.
+  - **Blockchain as an Ideal Decentralized Overseer**:
+    - Decentralized Transaction Records:
+      - Reduces the cost of operating a currency.
+      - Improves usability by maintaining a digital format.
+      - Enhances security through transparency and traceability.
+    - Decentralized Smart Contracts:
+      - Replaces traditional escrow services.
+      - Enables decentralized marketplaces and loan systems.
+- **Image Placeholder**: A graphic illustrating a blockchain network with interconnected nodes, symbolizing decentralization and transparency.
+
+---
+
+## Slide 11: Tokenization and Decentralized Finance (DeFi)
+- **Content**:
+  - **Tokenization of Projects**:
+    - Facilitates communal ownership of assets.
+    - Supports decentralized marketplaces and DeFi platforms.
+    - Operates with fewer regulatory constraints.
+- **Image Placeholder**: An illustration of diverse individuals holding tokens, representing shared ownership and participation in a tokenized economy.
+
+---
+
+## Slide 12: Advancements in Blockchain Technology and AI Privacy
+- **Content**:
+  - **Scalable Infrastructure**:
+    - Blockchain as a default "Stripe clone" for payments.
+    - Enables building trusted systems without relying on brand recognition.
+  - **Privacy Technologies Enhancing AI Privacy**:
+    - Zero-Knowledge Machine Learning (zkML):
+      - Proves that a model was run on data without revealing the data itself.
+    - Fully Homomorphic Encryption (FHE):
+      - Preserves the privacy of AI models.
+      - Allows encrypted computations on encrypted data.
+- **Image Placeholder**: A visual depicting the convergence of AI and blockchain, such as a padlock over data streams connecting AI models and blockchain nodes, emphasizing secure and private data processing.
 
 ---
 
