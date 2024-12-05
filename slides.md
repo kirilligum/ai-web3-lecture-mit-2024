@@ -221,7 +221,16 @@
 
 ---
 
-## Slide 13: Closing Slide
+## Slide 13: Conclusion
+
+- **Content**:
+  - Web3 is a natural place for trustless collaborative AI
+  - Successful traction but needs more resources and talent
+  - Revolutionary applications
+
+---
+
+## Slide 14: Closing Slide
 
 - **Title**: Thank You!
 - **Subtitle**: Questions and Discussion
